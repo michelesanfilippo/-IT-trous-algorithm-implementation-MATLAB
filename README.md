@@ -1,4 +1,4 @@
-#A trous algorithm implemented in Matlab
+# A trous algorithm implemented in Matlab
 
 This is a wavelet transform algorithm.
 
